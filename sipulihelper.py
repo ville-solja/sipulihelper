@@ -3,7 +3,6 @@ from datetime import datetime
 import os
 
 TOKEN = os.environ['TOKEN']    
-#TOKEN = 'NDQ1MTg5MTE0MDMyMDI5NzE2.Wvgkqw.jePYCAWWKdzC0U89C8gm-r5kEZw'
 
 client = discord.Client()
 
