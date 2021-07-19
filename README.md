@@ -1,7 +1,7 @@
 # SipuliHelper
 
 ## General
-This simple bot checks if someone has joined the voice channel at position 1. and this can be used to send further commands*
+This simple bot checks if there are users in voice channel at position 1. and this can be used to send further commands*
 
 *Commands not included
 
